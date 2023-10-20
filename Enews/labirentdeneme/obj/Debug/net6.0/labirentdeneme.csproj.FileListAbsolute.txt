@@ -1,0 +1,44 @@
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.exe
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.deps.json
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.runtimeconfig.json
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.dll
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.pdb
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.AssemblyInfoInputs.cache
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.AssemblyInfo.cs
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.dll
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\refint\labirentdeneme.dll
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.pdb
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.genruntimeconfig.cache
+D:\Masaüstü\Visual Studio 2022\labirentdeneme\labirentdeneme\obj\Debug\net6.0\ref\labirentdeneme.dll
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.exe
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.deps.json
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.runtimeconfig.json
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.dll
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\bin\Debug\net6.0\labirentdeneme.pdb
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.csproj.AssemblyReference.cache
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.AssemblyInfoInputs.cache
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.AssemblyInfo.cs
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.csproj.CoreCompileInputs.cache
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.dll
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\obj\Debug\net6.0\refint\labirentdeneme.dll
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.pdb
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\obj\Debug\net6.0\labirentdeneme.genruntimeconfig.cache
+C:\Users\IES\OneDrive\Desktop\labirentdeneme\labirentdeneme\obj\Debug\net6.0\ref\labirentdeneme.dll
+E:\Staj2GitHub\Enews\labirentdeneme\bin\Debug\net6.0\labirentdeneme.exe
+E:\Staj2GitHub\Enews\labirentdeneme\bin\Debug\net6.0\labirentdeneme.deps.json
+E:\Staj2GitHub\Enews\labirentdeneme\bin\Debug\net6.0\labirentdeneme.runtimeconfig.json
+E:\Staj2GitHub\Enews\labirentdeneme\bin\Debug\net6.0\labirentdeneme.dll
+E:\Staj2GitHub\Enews\labirentdeneme\bin\Debug\net6.0\labirentdeneme.pdb
+E:\Staj2GitHub\Enews\labirentdeneme\obj\Debug\net6.0\labirentdeneme.csproj.AssemblyReference.cache
+E:\Staj2GitHub\Enews\labirentdeneme\obj\Debug\net6.0\labirentdeneme.GeneratedMSBuildEditorConfig.editorconfig
+E:\Staj2GitHub\Enews\labirentdeneme\obj\Debug\net6.0\labirentdeneme.AssemblyInfoInputs.cache
+E:\Staj2GitHub\Enews\labirentdeneme\obj\Debug\net6.0\labirentdeneme.AssemblyInfo.cs
+E:\Staj2GitHub\Enews\labirentdeneme\obj\Debug\net6.0\labirentdeneme.csproj.CoreCompileInputs.cache
+E:\Staj2GitHub\Enews\labirentdeneme\obj\Debug\net6.0\labirentdeneme.dll
+E:\Staj2GitHub\Enews\labirentdeneme\obj\Debug\net6.0\refint\labirentdeneme.dll
+E:\Staj2GitHub\Enews\labirentdeneme\obj\Debug\net6.0\labirentdeneme.pdb
+E:\Staj2GitHub\Enews\labirentdeneme\obj\Debug\net6.0\labirentdeneme.genruntimeconfig.cache
+E:\Staj2GitHub\Enews\labirentdeneme\obj\Debug\net6.0\ref\labirentdeneme.dll
